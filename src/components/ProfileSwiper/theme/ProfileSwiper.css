@@ -1,0 +1,34 @@
+.slider {
+  max-width: 600px;
+  height: 340px;
+}
+.slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  border-radius: 5%;
+}
+
+.container-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 600px;
+  width: 100%;
+}
+
+.image {
+  position: relative;
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  border-radius: 5%;
+}
+
+.swiper-button-prev {
+  position: absolute;
+}
+.swiper-button-next {
+  position: absolute;
+}

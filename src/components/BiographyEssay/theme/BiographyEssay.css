@@ -1,0 +1,19 @@
+.essay {
+  font-size: 18px;
+  text-align: left;
+  font-weight: 500;
+  white-space: pre-line;
+  color: var(--main-color);
+  width: 100%;
+  margin: 0 0 5% 0;
+  padding: 0;
+}
+
+.highlightedText {
+  color: var(--important-text);
+}
+
+.video {
+  height: 400px;
+  width: 100%;
+}
