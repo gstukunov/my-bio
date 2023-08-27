@@ -29,6 +29,13 @@
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
   ></iframe>
+  <a href="https://github.com/gstukunov/my-bio"
+    ><img
+      width="40"
+      height="40"
+      class="links"
+      src="../../assets/svg/icon-github.svg"
+  /></a>
 </template>
 
 <script>
